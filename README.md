@@ -4,7 +4,9 @@
 `Python` | `SQL` | `Power BI` | `R.` 
 
 📫 Contacto:
+
 📩 aarreguijimenez@gmail.com
+
 🔗 https://www.linkedin.com/in/alberto-arregui/
 
 ---

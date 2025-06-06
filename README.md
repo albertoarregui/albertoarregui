@@ -1,6 +1,7 @@
 👋 ¡Hola! Soy Alberto Arregui: Analista de Datos | Científico de Datos
 
 📚 Tecnologías que uso:
+
 `Python` | `SQL` | `Power BI` | `R.` 
 
 📫 Contacto:
